@@ -1,3 +1,1 @@
-var name = 'Lu';
-
-console.log('Hello' + name);
+this won't even compile!
